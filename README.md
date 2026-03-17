@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ### 3. Launch the Dashboard
 streamlit run main.py
 
-##🏗️ SYSTEM ARCHITECTURE
+## 🏗️ SYSTEM ARCHITECTURE
 Developed by StockFlow Intelligence, this tool utilizes a modular Class-based structure in Python, leveraging BeautifulSoup4 for high-precision parsing and Streamlit for its premium-grade User Interface.
 
 ## 📫 CONNECT / REQUEST ACCESS
