@@ -49,7 +49,7 @@ streamlit run main.py
 Developed by StockFlow Intelligence, this tool utilizes a modular Class-based structure in Python, leveraging BeautifulSoup4 for high-precision parsing and Streamlit for its premium-grade User Interface.
 
 ## 📫 CONNECT / REQUEST ACCESS
-* **Technical Portfolio**: [icatnews GitHub](https://github.com/icatnews))
+* **Technical Portfolio**: [icatnews GitHub](https://github.com/icatnews)
 * **Upwork Professional Profile**: [Hire an Expert](https://www.upwork.com/freelancers/~0127b30cbbec080ff0)
 * **Insights**: [StockFlow Substack](https://stockflowai.substack.com)
 
