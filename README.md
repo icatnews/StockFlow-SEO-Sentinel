@@ -38,3 +38,12 @@ Based on our latest reconnaissance of **StockFlow Substack**:
 ```bash
 git clone [https://github.com/icatnews/StockFlow-SEO-Sentinel.git](https://github.com/icatnews/StockFlow-SEO-Sentinel.git)
 cd StockFlow-SEO-Sentinel
+```
+### 2. Equip Dependencies
+pip install -r requirements.txt
+
+### 3. Launch the Dashboard
+streamlit run main.py
+
+🏗️ SYSTEM ARCHITECTURE
+Developed by StockFlow Intelligence, this tool utilizes a modular Class-based structure in Python, leveraging BeautifulSoup4 for high-precision parsing and Streamlit for its premium-grade User Interface.
